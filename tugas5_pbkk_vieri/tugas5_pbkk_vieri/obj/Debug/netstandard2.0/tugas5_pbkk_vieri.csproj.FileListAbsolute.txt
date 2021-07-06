@@ -1,0 +1,14 @@
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\bin\Debug\netstandard2.0\tugas5_pbkk_vieri.deps.json
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\bin\Debug\netstandard2.0\tugas5_pbkk_vieri.dll
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\bin\Debug\netstandard2.0\ref\tugas5_pbkk_vieri.dll
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\bin\Debug\netstandard2.0\tugas5_pbkk_vieri.pdb
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\tugas5_pbkk_vieri.csprojAssemblyReference.cache
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\tugas5_pbkk_vieri.AssemblyInfoInputs.cache
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\tugas5_pbkk_vieri.AssemblyInfo.cs
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\tugas5_pbkk_vieri.csproj.CoreCompileInputs.cache
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\tugas5_pbkk_vieri.dll
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\ref\tugas5_pbkk_vieri.dll
+C:\Users\VIERI FATH\source\repos\tugas5_pbkk_vieri\tugas5_pbkk_vieri\tugas5_pbkk_vieri\obj\Debug\netstandard2.0\tugas5_pbkk_vieri.pdb

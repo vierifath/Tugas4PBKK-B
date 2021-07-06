@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tugas5_pbkk_vieri.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#800000" Padding="24" CornerRadius="0">
+            <Label Text="Tugas 4 PBKK - B" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="VIERI FATH AYUBA" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="05111840000153" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="PBKK - B" FontSize="Title" Padding="30,10,30,10"/>
+        <Button Text="Click Me" Clicked="Button_Clicked" />
+        
+    </StackLayout>
+
+</ContentPage>
